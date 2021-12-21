@@ -1,14 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <link href="style.css" rel="stylesheet" />
+		<meta charset="UTF-8">
+		<link href="style.css" rel="stylesheet" />
   </head>
   <body>
-    <h1 id="myHeading">My content</h1>
+	<h1 id="myHeading">set time limit for this domain</h1>
 
-    <button id="setthing">set</button>
+	<h3>limit:</h3>
 
-    <script src="script.js"></script>
+	<label>hours:</label>
+	<input id="hours" type="number" name="hours" value="2">
+
+	<label>minutes:</label>
+	<input id="minutes" type="number" name="minutes" value="0">
+
+	<button id="setlimit">set</button>
+
+	<h3>timeframe:</h3>
+
+	<label>start</label>
+	<input id="start" type="number" name="starttime" value="12">
+
+	
+	<select name="endamapm" id="startamapm">
+		<option value="AM">AM</option>
+		<option value="PM">PM</option>
+	</select> 
+
+	<label>end:</label>
+	<input id="end" type="number" name="endtime" value="12">
+
+	<select name="endamapm" id="endamapm">
+		<option value="AM">AM</option>
+		<option value="PM">PM</option>
+	</select> 
+
+	<button id="settimeframe">set</button>
+
+	<script src="script.js"></script>
   </body>
 </html>

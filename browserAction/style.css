@@ -1,3 +1,7 @@
-h1 {
-  font-style: italic;
+body {
+  font-family: sans-serif;
+}
+
+input[type="number"] {
+  width: 50px;
 }
