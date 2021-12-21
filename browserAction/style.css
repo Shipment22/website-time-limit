@@ -5,3 +5,7 @@ body {
 input[type="number"] {
   width: 50px;
 }
+
+#newdomain {
+  width: 98%;
+}
