@@ -14,28 +14,7 @@ document.getElementById('goback').onclick = function() {
 
 document.getElementById('continue').onclick = function() {
     if (prompt('Type "Yes i want to over ride the time limit." to continue.') === 'Yes i want to over ride the time limit.') {
-        // let domain = "https://www.khanacademy.org"
-        // let limit = 5
-        // let used = 0
-
-        // function onGot(times) {
-        //     if (typeof times[domain] === undefined) return
-        //     let limit = times[domain].limit
-        //     let used = limit - 10
-        //     if (used < 0) used = 0
-
-        //     let obj = {}
-        //     obj[domain] = {
-        //         limit: limit,
-        //         used: used
-        //     }
-
-        //     console.log(obj)
-
-        //     let settingItem = browser.storage.local.set(obj)
-        // }
-        // let times = browser.storage.local.get();
-        // times.then(onGot, onError);
+        // give more time
         window.location.replace(domain + page);
     }
 };
