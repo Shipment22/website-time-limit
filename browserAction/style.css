@@ -2,10 +2,41 @@ body {
   font-family: sans-serif;
 }
 
+input {
+  outline: none;
+  border: solid 2px lightgreen;
+  border-radius:  4px;
+}
+
 input[type="number"] {
   width: 50px;
 }
 
+select {
+  border: solid 2px lightgreen;
+  border-radius:  4px;
+}
+
 #newdomain {
+  display: none;
   width: 98%;
+}
+
+#done {
+  background: white;
+  color:  green;
+  border: solid 3px lightgreen;
+  border-radius: 7px;
+  width: 98%;
+  height: 40px;
+}
+
+#done:hover {
+  background: #eee;
+  color:  darkgreen;
+}
+
+#done:active {
+  background: lightgray;
+  color: #030;
 }
