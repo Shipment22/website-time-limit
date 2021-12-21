@@ -1,0 +1,888 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conso",
+				"console"
+			],
+			[
+				"art",
+				"artzCnv"
+			],
+			[
+				"plan",
+				"planetMenu"
+			],
+			[
+				"planet",
+				"planetMenu"
+			],
+			[
+				"create",
+				"createGraphics"
+			],
+			[
+				"fun",
+				"function() {};"
+			],
+			[
+				"window",
+				"windowResized"
+			],
+			[
+				"star",
+				"starCnv"
+			],
+			[
+				"gtk_build",
+				"gtk_builder_get_object"
+			],
+			[
+				"PA",
+				"PAppConverter"
+			],
+			[
+				"input",
+				"inputHist"
+			],
+			[
+				"cool",
+				"coolStuffs"
+			],
+			[
+				"tran",
+				"translateDir"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"key",
+				"key Return"
+			],
+			[
+				"mouseO",
+				"mouseOverTop"
+			],
+			[
+				"pixel",
+				"pixelDensity"
+			],
+			[
+				"dragg",
+				"draggingApp"
+			],
+			[
+				"begin",
+				"beginContour"
+			],
+			[
+				"curveT",
+				"curveTangent"
+			],
+			[
+				"bezi",
+				"bezierPoint"
+			],
+			[
+				"bezier",
+				"bezierDetail"
+			],
+			[
+				"convert",
+				"convertToPApp"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"cu",
+				"currActivity"
+			],
+			[
+				"ac",
+				"activitys"
+			],
+			[
+				"ri",
+				"rickroll"
+			],
+			[
+				"tip",
+				"tooltip"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"act",
+				"activitys"
+			],
+			[
+				"p5",
+				"p5inst"
+			],
+			[
+				"draggin",
+				"draggingApp"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"reques",
+				"requestAppChange"
+			],
+			[
+				"reque",
+				"requestAppChange"
+			],
+			[
+				"tit",
+				"titlebarH"
+			],
+			[
+				"launch",
+				"launchpadOpen"
+			],
+			[
+				"laun",
+				"launchpadOpen"
+			],
+			[
+				"mouseOff",
+				"mouseOffsetY"
+			],
+			[
+				"resi",
+				"resizeCanvas"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"len",
+				"length - 1"
+			],
+			[
+				"draw",
+				"drawPlayer"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"titl",
+				"titlebarH"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"doc",
+				"Documents"
+			],
+			[
+				"subl",
+				"sublime"
+			],
+			[
+				"tri",
+				"triangles"
+			],
+			[
+				"dock",
+				"dockHeight"
+			],
+			[
+				"curso",
+				"cursorX"
+			],
+			[
+				"curr",
+				"currActivity"
+			],
+			[
+				"cmd",
+				"cmd_run"
+			],
+			[
+				"pack",
+				"packages"
+			],
+			[
+				"p",
+				"pgui"
+			],
+			[
+				"show",
+				"showGroup"
+			],
+			[
+				"char",
+				"charCode"
+			],
+			[
+				"handle",
+				"handleEvent"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"dou",
+				"doubleClicked"
+			],
+			[
+				"crea",
+				"createCanvas"
+			],
+			[
+				"ux",
+				"uxRect"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"sh",
+				"shortcut"
+			],
+			[
+				"sho",
+				"shortcut"
+			],
+			[
+				"W",
+				"Window"
+			],
+			[
+				"win",
+				"windows"
+			],
+			[
+				"move",
+				"movedX"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"text",
+				"texts_SPEED"
+			],
+			[
+				"lvl1",
+				"lvl1_island"
+			],
+			[
+				"speed",
+				"speedUp"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"f",
+				"fontTest"
+			],
+			[
+				"set",
+				"setScene"
+			],
+			[
+				"sm",
+				"smallerSpacing"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"cur",
+				"cursorImg"
+			],
+			[
+				"w",
+				"windowWidth"
+			],
+			[
+				"mo",
+				"movedX"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sprite",
+				"spriteNames"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"tim",
+				"timeBetweenFrame"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"d",
+				"double\tborder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"subl",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sub",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"subli",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pres",
+				"Preferences: Settings"
+			],
+			[
+				"theme",
+				"UI: Customize Theme"
+			],
+			[
+				"schme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"server",
+				"SublimeServer: Restart SublimeServer"
+			],
+			[
+				"reome",
+				"Package Control: Remove Package"
+			],
+			[
+				"live",
+				"Live Server: Open In Browser"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"col",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"set sy",
+				"Set Syntax: Tcl"
+			],
+			[
+				"c",
+				"Set Syntax: C#"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"gd",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Live Server: Open In Browser"
+			],
+			[
+				"pa ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"s htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:  rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control:  i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"echo hello",
+			"/home/ben/Documents/test/test.sh"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ben/Downloads/60-openrgb.rules",
+		"/home/ben/Documents/p5/p5js/Mine/the knights of the round vessel/6/pixelArt.js",
+		"/home/ben/Documents/p5/p5js/Mine/the knights of the round vessel/primavera challenge: 5/coolStuff.js",
+		"/home/ben/Pictures/Libre Sprite/spaceship.png",
+		"/home/ben/.config/sublime-text-3/Packages/User/SublimeServer.sublime-settings",
+		"/home/ben/git-projects/DinOS/packages/pdesk/pgui.js",
+		"/home/ben/Documents/p5/p5js/Mine/the knights of the round vessel/6/player.js",
+		"/home/ben/Documents/SpaceGame/index.html",
+		"/home/ben/test/gladetest1/index.html",
+		"/home/ben/test/gladetest1/main.c",
+		"/home/ben/git-projects/DinOS.sublime-project",
+		"/home/ben/git-projects/DinOS/packages/pdesk/pdesk.js",
+		"/home/ben/git-projects/DinOS/packages/pdesk/papps.js",
+		"/home/ben/git-projects/DinOS/src/sketch.js",
+		"/home/ben/git-projects/DinOS/packages/gimme/install.js",
+		"/home/ben/git-projects/DinOS/packages/PAppConverter/install.js",
+		"/home/ben/git-projects/DinOS/src/users.js",
+		"/home/ben/Downloads/logins-backup.json",
+		"/home/ben/Downloads/logins.json",
+		"/home/ben/test/gtk_py/main.py",
+		"/home/ben/.waterfox/hepe1912.68-edition-default-1/logins.json",
+		"/home/ben/.waterfox/hepe1912.68-edition-default-1/logins-backup.json",
+		"/home/ben/.waterfox/le6b0uf3.default-default/logins.json",
+		"/home/ben/.waterfox/hepe1912.68-edition-default-1/prefs.js",
+		"/home/ben/.waterfox/hepe1912.68-edition-default-1/user.js",
+		"/home/ben/test/gjs/main.js",
+		"/home/ben/git-projects/DinOS/src/dinos.js",
+		"/home/ben/git-projects/DinOS/src/dinnerminal.js",
+		"/home/ben/git-projects/DinOS/src/packages.js",
+		"/home/ben/git-projects/DinOS/src/activitys.js",
+		"/home/ben/git-projects/DinOS/index.html",
+		"/home/ben/git-projects/DinOS/packages/pdesk/install.js",
+		"/home/ben/git-projects/DinOS/src/cmd.js",
+		"/home/ben/git-projects/DinOS/packages/pdesk/0.1.2/pgui.js",
+		"/home/ben/new-ka-api-test/index.mjs",
+		"/home/ben/git-projects/DinOS/packages/pdesk/0.1.2/pdesk.js",
+		"/home/ben/git-projects/DinOS/packages/pdesk/0.1.2/papps.js",
+		"/home/ben/git-projects/DinOS/src/newdinnerminaltest.js",
+		"/home/ben/git-projects/DinOS/src/coolStuffs.js",
+		"/home/ben/.local/share/gnome-shell/extensions/flypie@schneegans.github.com/presets/Default.json",
+		"/home/ben/.local/share/gnome-shell/extensions/flypie@schneegans.github.com/presets/Numix.json",
+		"/home/ben/.local/share/gnome-shell/extensions/flypie@schneegans.github.com/presets/Orchis.json",
+		"/home/ben/.local/share/gnome-shell/extensions/flypie@schneegans.github.com/presets/Yaru.json",
+		"/home/ben/.local/share/applications/gnome-pie.desktop",
+		"/home/ben/Documents/dontMove/waterfox/application.ini",
+		"/home/ben/.local/share/applications/org.gnome.clocks.desktop",
+		"/home/ben/git-projects/DinOS/src/index.html",
+		"/home/ben/Documents/p5/p5js/Mine/default-style.css",
+		"/home/ben/Desktop/newtab.html",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/0/style.css",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/0/index.html",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/0/sketch.js",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/0/onefile.html",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/sketch.js",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/index.html",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/0.1.2/papps.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.1/sketch.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/0.1.2/pdesk.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.1/index.html",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.1/dinos.js",
+		"/home/ben/Documents/p5/p5js/Mine/KADashboard/style.css",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.1/cmd.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/install.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.0/dinos.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/dinos_050_KA-test.html",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.0/sketch.js",
+		"/home/ben/Documents/not a heck.uwu",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.5.0/index.html",
+		"/home/ben/key-mapper/keymapper/mapping.py",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/0.1.0/pgui.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/0.1.0/papps.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/0.1.0/pdesk.js",
+		"/home/ben/Macros/Macros/89.sh",
+		"/home/ben/Macros/Macros/88.sh",
+		"/home/ben/Macros/Macros/87.sh",
+		"/home/ben/Macros/Macros/84.sh",
+		"/home/ben/Macros/Macros/81.sh",
+		"/home/ben/Macros/Macros/79.sh",
+		"/home/ben/Macros/Macros/58.sh",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/3/papps.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/3/pgui.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/3/pdesk.js",
+		"/home/ben/Documents/p5/ProcessingJS/KA Programs/my first program",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.4.7/sketch.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.4.7/cmd.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.4.7/dinos.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.4.7/packages.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/2/papps.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/2/pgui.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/2/pdesk.js",
+		"/home/ben/Documents/p5/p5js/Mine/drawing/0.0.1/drawing.html",
+		"/home/ben/Documents/p5/p5js/Mine/drawing/0.1.2/pixel.js",
+		"/home/ben/Documents/p5/p5js/Mine/drawing/0.1.2/rasterLayer.js",
+		"/home/ben/Documents/p5/p5js/Mine/drawing/0.1.2/config.js",
+		"/home/ben/Documents/p5/p5js/Mine/drawing/0.1.2/sketch.js",
+		"/home/ben/Macros/KMacros.sh",
+		"/home/ben/Macros/KMacros - old.sh",
+		"/tmp/mozilla_ben0/KMacros.sh",
+		"/home/ben/Documents/test/KAppTemplate/test/src/org.example.test.desktop",
+		"/home/ben/Documents/test/KAppTemplate/test/src/testwindow.h",
+		"/home/ben/Documents/test/KAppTemplate/test/Messages.sh",
+		"/home/ben/Documents/test/KAppTemplate/test/src/testwindow.cpp",
+		"/home/ben/Documents/p5/p5js/Mine/drawing/0.1.2/frame.js",
+		"/home/ben/Documents/test/KAppTemplate/test/src/main.cpp",
+		"/home/ben/Documents/p5/p5js/Mine/its_a_drawin'_game/sketch.js",
+		"/home/ben/Desktop/🐟 MOLA_",
+		"/home/ben/Desktop/🐟 MOLA",
+		"/home/ben/Macros/Macros/40.sh",
+		"/home/ben/Macros/Macros/61.sh",
+		"/home/ben/Documents/p5/p5js/Mine/its_a_drawin'_game/index.html",
+		"/home/ben/Documents/p5/p5js/Mine/template/index.html",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/0.4.7/users.js",
+		"/home/ben/Documents/p5/ProcessingJS/saveProgramsv2.html",
+		"/home/ben/Documents/p5/ProcessingJS/KA Programs/ፐꜧల Ƙ𝛈ὶဌꜧꚍꚂ 𝘖ẜ ፐꜧల Ɽᴑບ𝛈Ԃ 𝘝లꚂꚂల𝑙",
+		"/home/ben/Documents/p5/ProcessingJS/savePrograms.html",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/1/pgui.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/1/papps.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/1/pdesk.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/space_shooter/app.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/space_shooter/install.js",
+		"/home/ben/Documents/p5/p5js/Mine/DINOS/packages/pdesk/1/119.sh",
+		"/home/ben/Documents/p5/p5js/Mine/_/current/home.js",
+		"/home/ben/Documents/p5/p5js/Mine/_/current/main.css",
+		"/home/ben/Documents/p5/p5js/Mine/_/current/index.html",
+		"/home/ben/Downloads/steam_latest/debian-binary",
+		"/home/ben/Macros/Macros/119.sh",
+		"/home/ben/Macros/Macros/47.sh",
+		"/home/ben/Macros/Macros/59.sh"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 715.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 254.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Mine/drawing/0.0.1/drawing.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 308.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"A"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
