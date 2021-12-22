@@ -2,6 +2,10 @@ body {
   font-family: sans-serif;
 }
 
+h3 {
+  line-height: 0.8em;
+}
+
 input {
   outline: none;
   border: solid 2px lightgreen;
@@ -20,10 +24,6 @@ select {
 #newdomain {
   display: none;
   width: 98%;
-}
-
-#days {
-  width: 50px;
 }
 
 #done {
