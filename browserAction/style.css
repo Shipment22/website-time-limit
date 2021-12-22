@@ -22,6 +22,10 @@ select {
   width: 98%;
 }
 
+#days {
+  width: 50px;
+}
+
 #done {
   background: white;
   color:  green;
