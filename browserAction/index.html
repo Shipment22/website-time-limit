@@ -7,11 +7,13 @@
   <body>
 	<h1 id="myHeading">set time limit for domain</h1>
 
+	<h3>domain:</h3>
+
 	<select name="domains" id="domains">
 		<option value="add">add</option>
 	</select> 
 
-	<input type="text" name="newdomain" id="newdomain">
+	<input type="text" name="newdomain" id="newdomain" placeholder="https://prefix.domainname.suffix">
 
 	<h3>limit:</h3>
 
@@ -21,13 +23,13 @@
 	<label>minutes:</label>
 	<input id="minutes" type="number" name="minutes" value="0">
 
-	<h3>timeframe:</h3>
+	<h3>from:</h3>
 
-	<label>start</label>
+	<label>start:</label>
 	<input id="start" type="number" name="starttime" value="12">
 
 	
-	<select name="endamapm" id="startamapm">
+	<select name="startamapm" id="startamapm">
 		<option value="AM">AM</option>
 		<option value="PM">PM</option>
 	</select> 
@@ -39,6 +41,10 @@
 		<option value="AM">AM</option>
 		<option value="PM">PM</option>
 	</select> 
+
+	<h3>every:</h3>
+
+	<input type="text" name="days" id="days" value="1"> days
 
 	<br>
 	<br>
